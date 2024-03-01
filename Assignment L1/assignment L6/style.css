@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header h3{
+    background-color: green;
+    color: white;
+    text-align: center;
+    padding: 10px 20px;
+
+}
+.left{
+    background-color: blue;
+    height: 480px;
+    margin-right: 70%;
+}
+.left p{
+    color: white;
+    padding: 20px;
+}
+.center{
+    background-color: brown;
+    position: absolute;
+    bottom: 50%;
+    right:30%;
+    width: 40%;
+    top: 41px;
+    height: 480px;
+}
+.center video{
+    padding: 60px;
+    padding-top: 120px;
+    padding-left: 100px;
+}
+.right img{
+   padding: 60px;
+   padding-left: 40px;
+   padding-top: 80px;
+}
+.right {
+    background-color: cornsilk;
+    width: 370px;
+    height: 481px;
+    position: absolute;
+    right: 0%;
+    top: 6.9%;
+   
+    
+}
+.bottom{
+   
+    background-color: rgb(174, 58, 58);
+    color: white;
+    text-align: center;
+    height: 50px;
+    font-size: 30px;
+    padding: 10px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
